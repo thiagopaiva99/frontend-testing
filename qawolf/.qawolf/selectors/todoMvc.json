@@ -1,0 +1,122 @@
+[
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 0
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 1
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 2
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 3
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 4
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 5
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 6
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 7
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<div class=\"view\" data-reactid=\".0.1.2.$09888c8f-f463-46b2-b6b9-232851c2a0a4.0\"></div>",
+    "<li class=\"\" data-reactid=\".0.1.2.$09888c8f-f463-46b2-b6b9-232851c2a0a4\"></li>"
+   ],
+   "node": "<input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$09888c8f-f463-46b2-b6b9-232851c2a0a4.0.0\"/>"
+  },
+  "index": 8
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<div class=\"view\" data-reactid=\".0.1.2.$b97fe39b-3855-46e3-994a-0efc6d33c4f8.0\"></div>",
+    "<li class=\"\" data-reactid=\".0.1.2.$b97fe39b-3855-46e3-994a-0efc6d33c4f8\"></li>"
+   ],
+   "node": "<input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$b97fe39b-3855-46e3-994a-0efc6d33c4f8.0.0\"/>"
+  },
+  "index": 9
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<div class=\"view\" data-reactid=\".0.1.2.$eecfdebf-1f13-47dc-b977-5eabb0949f35.0\"></div>",
+    "<li class=\"\" data-reactid=\".0.1.2.$eecfdebf-1f13-47dc-b977-5eabb0949f35\"></li>"
+   ],
+   "node": "<input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$eecfdebf-1f13-47dc-b977-5eabb0949f35.0.0\"/>"
+  },
+  "index": 10
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<div class=\"view\" data-reactid=\".0.1.2.$7471cc72-0635-4aab-8197-c09b499141c5.0\"></div>",
+    "<li class=\"\" data-reactid=\".0.1.2.$7471cc72-0635-4aab-8197-c09b499141c5\"></li>"
+   ],
+   "node": "<input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$7471cc72-0635-4aab-8197-c09b499141c5.0.0\"/>"
+  },
+  "index": 11
+ }
+]
